@@ -1,6 +1,6 @@
 function showMessage() {
   const message = document.getElementById('message');
-  message.innerText = "Semoga cita-citamu tercapai! 🎂";
+  message.innerText = "ini cuman contoh loh yah, by fadly :v";
   
   // Tampilkan confetti
   const confetti = document.getElementById('confetti');
